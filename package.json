@@ -1,0 +1,11 @@
+{
+  "name": "sintori-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
